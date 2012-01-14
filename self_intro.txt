@@ -1,0 +1,4 @@
+Name: Yu Ishida
+Skillful Language: Java 
+Industry: Web Application
+comment: 
